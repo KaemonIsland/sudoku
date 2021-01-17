@@ -1,0 +1,9 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "A Sudoku game generator.",
+  "main": "index.js",
+  "repository": "https://github.com/KaemonIsland/sudoku.git",
+  "author": "KaemonIsland <k-manskrazy@hotmail.com>",
+  "private": false
+}
